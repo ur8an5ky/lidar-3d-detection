@@ -1,10 +1,3 @@
-"""
-KITTI 3D Object Detection — data loading utilities.
-
-Put this in src/ and import it from your exploration notebook (Phase 1):
-    from src.kitti_utils import load_point_cloud, load_labels, collect_all_labels
-"""
-
 from pathlib import Path
 
 import numpy as np
