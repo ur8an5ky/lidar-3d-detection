@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn
+open3d            # wizualizacja chmur punktów LiDAR (3D)
+opencv-python     # obrazy KITTI / rzuty BEV
+tqdm
+jupyter
+notebook

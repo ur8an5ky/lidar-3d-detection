@@ -216,3 +216,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Data — KITTI is tens of GB, never commit it
+data/
+*.bin
+*.pcd
+
+# Model checkpoints & training output
+*.pth
+*.ckpt
+checkpoints/
+output/
+work_dirs/
