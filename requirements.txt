@@ -6,4 +6,4 @@ open3d            # wizualizacja chmur punktów LiDAR (3D)
 opencv-python     # obrazy KITTI / rzuty BEV
 tqdm
 jupyter
-notebook
+notebookpython src/kitti_utils.py
